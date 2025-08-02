@@ -76,7 +76,7 @@ await webPush.sendNotification(subscription, payload)
 
 ## 2. VAPID Keys - bir martalik!
 
-**JAVOB: YO'Q! Bir marta generate qiling va hamma uchun ishlatiladi**
+**Bir marta generate qiling va hamma uchun ishlatiladi**
 
 ```javascript
 // ❌ NOTO'G'RI - har user uchun alohida
